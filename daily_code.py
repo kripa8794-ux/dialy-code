@@ -1,1 +1,4 @@
-print("Hello, World!")
+# print("Hello, World!")
+
+def greet(name):
+    return f"Hello, {name}!"
